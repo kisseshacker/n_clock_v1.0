@@ -1,5 +1,7 @@
 # N-Clock v1.0
 
+![N-Clock]([http://url/to/img.png](https://github.com/kisseshacker/n_clock_v1.0/blob/main/image.jpg))
+
 This is an old-school project since 2012-2013. I thought it is lost forever, but fortunately Phi Quoc (luongquocphi1989@gmail.com) has a copy and shared to me. Thousand of thumbs-up to you.
 
 Re-upload to Github for a better backup.
